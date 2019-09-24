@@ -5,4 +5,4 @@ Test for Rebase.
 
 ## Repo purpose
 
-This will conflict with the changes on the remote side
+This will conflict
